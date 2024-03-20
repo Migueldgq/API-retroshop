@@ -1,0 +1,22 @@
+[
+	{
+		"id" : 1,
+		"name" : "Miguel Dario Garcia Quintas",
+		"email" : "migueldariogq.mdg@gmail.com",
+		"password" : "$2b$10$.Qi2naXLMAmEdewfxPFXTuYPYanGU9G8/nQRXcJ1yJVRbAoQEb4ma",
+		"avatarURL" : "1707091997847-fotoperfil2.jpg",
+		"biography" : null,
+		"verificationCode" : "499d25e9-b953-4068-a52d-e3b1c31f657c",
+		"isEmailValidated" : 1
+	},
+	{
+		"id" : 2,
+		"name" : "Juan Perez",
+		"email" : "migueldariogq@gmail.com",
+		"password" : "$2b$10$Qzu7FbgDqNvv39RrxQeUk.1VNJgKlbsEx8O5PY2zNz6U2aWnEk2nu",
+		"avatarURL" : null,
+		"biography" : null,
+		"verificationCode" : "f51902eb-2e83-4ac5-87b9-f545013cdc34",
+		"isEmailValidated" : 1
+	}
+]
