@@ -1,6 +1,5 @@
 import nodemailer from "nodemailer";
 import { SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASS } from "../../env.js";
-import localforage from "localforage";
 
 const transport = nodemailer.createTransport({
   host: SMTP_HOST,
